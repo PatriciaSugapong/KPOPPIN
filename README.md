@@ -23,9 +23,11 @@ Kpoppin Inventory Management System and Point-of-Sale System is designed to enha
 - ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Screenshots
-  <img src="screenshots/dashboard.png" alt="Dashboard" width="300"/>
-  <img src="screenshots/sales.png" alt="Sales" width="300"/>
-  <img src="screenshots/inventory.png" alt="Inventory" width="300"/>
+<div style="display: flex; justify-content: center;">
+  <img src="screenshots/dashboard.png" alt="Dashboard" width="300" style="margin: 0 10px;"/>
+  <img src="screenshots/sales.png" alt="Sales" width="300" style="margin: 0 10px;"/>
+  <img src="screenshots/inventory.png" alt="Inventory" width="300" style="margin: 0 10px;"/>
+</div>
 
 ## Team
 
